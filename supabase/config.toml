@@ -1,0 +1,4 @@
+[functions.trip-editor]
+verify_jwt = false
+
+
